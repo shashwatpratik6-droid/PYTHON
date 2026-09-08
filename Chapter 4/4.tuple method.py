@@ -1,0 +1,8 @@
+a = (2,4,2,7,"ram","sita",False, True)
+# print(a.count("ram"))
+# print(a.index("sita"))
+# print(a.count(False))
+# print(a.index(True))
+print(len(a))
+print(8 in a)
+print(True in a)
